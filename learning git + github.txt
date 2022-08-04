@@ -1,4 +1,5 @@
 Git and GitHub:
+EP1
 - Version control (version1, version2,....)
 - For collaboration on same project
 Git = version control softwer
@@ -9,3 +10,8 @@ LIST OF TERMS:
 -with edit button (pen) you can add stuff to your file and commit again changes. You can do as many commits you need.
 -there is a HISTORY button where you can see all your changes. Every change and commit has a looong number named HASH NR. Same number you can notice in URL.
 - Hash number is unic identifier for 'x' commit.
+
+EP2
+-It's about BRANCH
+
+
