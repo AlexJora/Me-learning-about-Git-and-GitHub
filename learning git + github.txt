@@ -1,4 +1,6 @@
 Git and GitHub:
+
+Branch-one
 EP1
 - Version control (version1, version2,....)
 - For collaboration on same project
@@ -13,5 +15,8 @@ LIST OF TERMS:
 
 EP2
 -It's about BRANCH
+- we have a MAIN/MASTER BRANCH and now I create from master a new branch.
+- branches are for experiment and trying new stuff
+- after I try my ideas on this branch I can deleat or try to link to master branch with 2 actions: PULL REQUEST and MERGE
 
 
