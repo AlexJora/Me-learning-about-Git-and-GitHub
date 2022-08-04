@@ -1,0 +1,8 @@
+Git and GitHub:
+- Version control (version1, version2,....)
+- For collaboration on same project
+Git = version control softwer
+GitHub = web service
+LIST OF TERMS:
+1. REPOSITORY = project
+2. COMMIT = save
