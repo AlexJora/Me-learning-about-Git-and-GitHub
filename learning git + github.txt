@@ -6,3 +6,4 @@ GitHub = web service
 LIST OF TERMS:
 1. REPOSITORY = project
 2. COMMIT = save
+-with edit button (pen) you can add stuff to your file and commit again changes. You can do as many commits you need.
