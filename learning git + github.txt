@@ -18,5 +18,6 @@ EP2
 - we have a MAIN/MASTER BRANCH and now I create from master a new branch.
 - branches are for experiment and trying new stuff
 - after I try my ideas on this branch I can deleat or try to link to master branch with 2 actions: PULL REQUEST and MERGE
+- this is second change in my first branch
 
 
