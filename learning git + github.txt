@@ -20,4 +20,8 @@ EP2
 - after I try my ideas on this branch I can deleat or try to link to master branch with 2 actions: PULL REQUEST and MERGE
 - this is second change in my first branch
 
+EP3
+It's about FORK and PULL REQUEST
+- If you want to work on someone else project you can FORK (copy project in your Github account) and work there. After you are happy with your work you can PULL REQUEST to link what you did to main project and wait to be accepted.
+
 
